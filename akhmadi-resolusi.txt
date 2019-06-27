@@ -1,0 +1,6 @@
+halo pak nama saya akhmadi,saya dari bandung
+resolusi saya tahun ini membuat portofolio,antara lain;
+-membuat website curriculum vitae dari php native
+-membuat website curriculum vitae dari framework php bisa laravel atau ci
+-membuat website curriculum vitae dari android
+-membuat website curriculum vitae dari java script
